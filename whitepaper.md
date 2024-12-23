@@ -14,7 +14,7 @@ Polish Ape Syndicate Token (PAST) jest kryptowalutą zaprojektowaną z myślą o
 ## **3. Tokenomika PAST**  
 - **Nazwa tokena**: Polish Ape Syndicate Token  
 - **Ticker**: PAST  
-- **Całkowita podaż**: 10 000 000 PAST  
+- **Całkowita podaż**: 500 000 000 PAST  
 - **Blockchain**: Solana (z kompatybilnością z innymi sieciami, takimi jak Polygon, Arbitrum, Ethereum i Polkadot, dzięki technologii bridge).  
 - **Rozkład podaży**:
   - 40% - Programy stakingowe i nagrody dla społeczności  
