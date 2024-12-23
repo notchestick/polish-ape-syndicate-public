@@ -1,1 +1,0 @@
-# polish-ape-syndicate-public
